@@ -1,6 +1,9 @@
-## Graduated! 🎉🤓🎉🤓🤓🎉
+# Welcome
 
-You can view graduation certificate [here](https://graduation.udacity.com/confirm/Q7Q5VKRD).
+Mehnet Yagci's repository for assignments and practice files for [Udacity React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019).
+
+[//]: # (Image References)
+[graduation]: ./ReactNanodegree.jpg "Graduation"
 
 ## Udacity React Nanodegree
 
@@ -24,3 +27,7 @@ _Note: This is a repo that shows the information of 3 projects in the Udacity Re
 - https://github.com/mehmetyagci/MyReads
 - https://github.com/mehmetyagci/Would-You-Rather
 - https://github.com/mehmetyagci/mobile-flashcards
+
+# Graduated December 2019
+[Nanodegree Certificate Verification Link](https://graduation.udacity.com/confirm/Q7Q5VKRD)
+![Certificate][Graduation]
